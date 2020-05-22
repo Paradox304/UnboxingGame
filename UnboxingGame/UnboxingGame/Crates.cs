@@ -18,7 +18,7 @@ namespace UnboxingGame
             Console.WriteLine("5. Godly Crate ($2000)");
             Console.WriteLine("6. View the info of all crates and their drop chances.");
             Console.WriteLine("7. Go back.");
-
+            Console.WriteLine();
             while (true)
             {
                 Game game = new Game();
